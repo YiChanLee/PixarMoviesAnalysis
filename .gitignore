@@ -1,0 +1,2 @@
+# ignore checkpoint file of ipython notebook
+.ipnyb_checkpoints/
